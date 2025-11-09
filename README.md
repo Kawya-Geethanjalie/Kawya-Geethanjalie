@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm K.H.S.Kawya Geethanjalie</h1>
 <h3 align="center">A passionate Software developer Student from Sri lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kawya-geethanjalie&label=Profile%20views&color=0e75b6&style=flat" alt="kawya-geethanjalie" /> </p>
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kawya-geethanjalie&label=Profile%20views&color=0e75b6&style=flat" alt="kawya-geethanjalie" /> </>
 - 🔭 I’m currently working on **Test**
 
 - 🌱 I’m currently learning **Android Studio**
