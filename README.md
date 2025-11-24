@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K.H.S.Kawya Geethanjalie</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="center" > <img margin:"12" src="https://komarev.com/ghpvc/?username=kawya-geethanjalie&label=Profile%20views&color=0e75b6&style=flat" alt="kawya-geethanjalie" /> </p>
+
 
 <br>
 <br>
