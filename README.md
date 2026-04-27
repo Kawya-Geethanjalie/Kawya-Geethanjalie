@@ -17,7 +17,7 @@
 ---
 
 ### 🎨 Creative Designer & Software Developer
-- 🎓 **Junior Software Developer** | Trainee at VTA Baddegama.
+- 🎓 **Software Developer Student** | Trainee at VTA Baddegama.
 - 🖌️ **Specialization:** Advanced **Adobe Photoshop** manipulation & Branding.
 - ✨ **Design Aesthetics:** Specialist in **Neon Glow**, **Glassmorphism**, and **Dark/Gold** themes.
 - 💻 **Web Tech:** Skilled in **PHP**, **MySQL**, and **Tailwind CSS**.
