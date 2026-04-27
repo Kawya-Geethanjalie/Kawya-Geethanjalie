@@ -66,7 +66,7 @@
   <a href="https://instagram.com/samudi_k123" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/c/skcreationzew" target="blank">
+  <a href="https://www.youtube.com/@KawyaGeethanjali" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
