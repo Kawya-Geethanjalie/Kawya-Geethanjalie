@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm K.H.S. Kawya Geethanjalie (SK)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm K.H.S. Kawya Geethanjalie (SKG)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Software+Developer;Graphic+Designer;Full+Stack+Learner;Hindi+Language+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Graphic+Designer;Photoshop+Expert;Full+Stack+Developer;Hindi+Language+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,20 +16,33 @@
 
 ---
 
-### 💫 About Me
-- 🎓 **Junior Software Developer** currently training at VTA Baddegama.
-- 🎨 **Creative Designer** specializing in modern Glassmorphism & Glow effects.
-- 💻 **Tech Interests:** Deeply engaged in PHP, MySQL, and Tailwind CSS projects.
-- 📚 **Current Goals:** Developing 'SKG MY Creationz' and learning Hindi translation.
+### 🎨 Creative Designer & Software Developer
+- 🎓 **Junior Software Developer** | Trainee at VTA Baddegama.
+- 🖌️ **Specialization:** Advanced **Adobe Photoshop** manipulation & Branding.
+- ✨ **Design Aesthetics:** Specialist in **Neon Glow**, **Glassmorphism**, and **Dark/Gold** themes.
+- 💻 **Web Tech:** Skilled in **PHP**, **MySQL**, and **Tailwind CSS**.
+- 📚 **Current Projects:** - 📘 Authoring a **Graphic Design Guidebook** (using Canva & Word).
+    - 🎥 Developing **Movie Lab** & **SK Kavita Mandir**.
 - 📧 **Contact:** [contact.kawya@gmail.com](mailto:contact.kawya@gmail.com)
-- ⚡ **Fun Fact:** Call me **SK**!
+- ⚡ **Fun Fact:** "Code is my logic, Design is my soul." - **Call me SK**
 
 ---
 
-### 🛠 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,tailwind,js,html,css,ps,java,android,nodejs,react,bootstrap,git,github,visualstudio" />
-</p>
+### 🛠 My Creative & Technical Stack
+
+| **Design Tools** | **Web Development** | **Database & Others** |
+| :--- | :--- | :--- |
+| ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![UI Design](https://img.shields.io/badge/UI_Design-FF61F6?style=for-the-badge&logo=pwa&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+
+---
+
+### 🏆 Professional Experience & Projects
+- 🏢 **IT & Content Creation:** Designing social media and managing IT tasks for a Plantation Investment Institute.
+- 🖋️ **Hindi-Sinhala Dictionary:** A dedicated tool for language translation.
+- 📦 **BigBazaar:** E-commerce web logic development using PHP.
+- 🎨 **SKG MY Creationz:** My official portfolio for Graphics, Video, and Audio assets.
 
 ---
 
@@ -62,8 +75,4 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kawya-Geethanjalie/Kawya-Geethanjalie/main/line.gif" width="100%">
 </p>
