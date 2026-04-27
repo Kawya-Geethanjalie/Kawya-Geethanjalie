@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Graphic+Designer;Photoshop+Designer;Canva+Designer;Web+Developer;Hindi+Language+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF1493&center=true&vCenter=true&width=500&lines=Graphic+Designer;Photoshop+Expert;Full+Stack+Developer;WordPress+Customizer;Hindi+Language+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,28 +18,32 @@
 
 ### 🎨 Creative Designer & Software Developer
 - 🎓 **Software Developer Student** | Trainee at VTA Baddegama.
-- 🖌️ **Specialization:** Advanced **Adobe Photoshop** 
+- 🖌️ **Specialization:** Advanced **Adobe Photoshop** manipulation & **Canva**.
 - ✨ **Design Aesthetics:** Specialist in **Neon Glow**, **Glassmorphism**, and **Dark/Gold** themes.
-- 💻 **Web Tech:** Skilled in **PHP**, **MySQL**, and **Tailwind CSS**.
-- 📚 **Current Projects:** - 📘 Authoring a **My Graphic Design Guidebook** (using Canva & Word).
+- 💻 **Web Tech:** Skilled in **PHP**, **MySQL**, **Tailwind CSS**, and **WordPress**.
+- 📚 **Current Projects:** - 📘 Authoring **My Graphic Design Guidebook** (using Canva & Word).
     - 🎥 Developing **Movie Lab** & **SK Kavita Mandir**.
-- 📧 **Contact:** [contact.kawya@gmail.com](mailto:contact.kawya@gmail.com)
-- ⚡ **Fun Fact:** "Code is my logic, Design is my soul." - **Call me SK**
+- 🏢 **Professional Role:** IT & Content Creation for a Plantation Investment Institute.
+- 📧 **Contact:** [contact.kawya@gmail.com](mailto:contact.kawya@gmail.com).
+- ⚡ **Fun Fact:** "Code is my logic, Design is my soul." - **Call me SK**.
 
 ---
 
 ### 🛠 My Creative & Technical Stack
 
-| **Design Tools** | **Web Development** | **Database & Others** |
+| **Design & CMS** | **Web Development** | **Database & Software** |
 | :--- | :--- | :--- |
-| ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![UI Design](https://img.shields.io/badge/UI_Design-FF61F6?style=for-the-badge&logo=pwa&logoColor=white) | ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| ![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
+| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=Canva&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) |
+| ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| ![UI Design](https://img.shields.io/badge/UI_Design-FF61F6?style=flat-square&logo=pwa&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) |
+| ![Word](https://img.shields.io/badge/MS_Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans&logoColor=white) |
+| ![Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) |
 
 ---
 
 ### 🏆 Professional Experience & Projects
-- 🏢 **IT & Content Creation:** Designing social media and managing IT tasks for a Plantation Investment Institute.
 - 🖋️ **Hindi-Sinhala Dictionary:** A dedicated tool for language translation.
 - 📦 **BigBazaar:** E-commerce web logic development using PHP.
 - 🎨 **SKG MY Creationz:** My official portfolio for Graphics, Video, and Audio assets.
