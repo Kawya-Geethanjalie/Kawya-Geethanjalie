@@ -18,10 +18,10 @@
 
 ### 🎨 Creative Designer & Software Developer
 - 🎓 **Software Developer Student** | Trainee at VTA Baddegama.
-- 🖌️ **Specialization:** Advanced **Adobe Photoshop** manipulation & Branding.
+- 🖌️ **Specialization:** Advanced **Adobe Photoshop** 
 - ✨ **Design Aesthetics:** Specialist in **Neon Glow**, **Glassmorphism**, and **Dark/Gold** themes.
 - 💻 **Web Tech:** Skilled in **PHP**, **MySQL**, and **Tailwind CSS**.
-- 📚 **Current Projects:** - 📘 Authoring a **Graphic Design Guidebook** (using Canva & Word).
+- 📚 **Current Projects:** - 📘 Authoring a **My Graphic Design Guidebook** (using Canva & Word).
     - 🎥 Developing **Movie Lab** & **SK Kavita Mandir**.
 - 📧 **Contact:** [contact.kawya@gmail.com](mailto:contact.kawya@gmail.com)
 - ⚡ **Fun Fact:** "Code is my logic, Design is my soul." - **Call me SK**
